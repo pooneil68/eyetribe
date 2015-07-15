@@ -1,3 +1,6 @@
+// Modified from eyetribe/example/eyetribe_test/eyetribe_test.pde
+// See http://memorandums.hatenablog.com/entry/2014/12/07/005817
+
 import com.theeyetribe.client.request.*;
 import com.theeyetribe.client.reply.*;
 import com.theeyetribe.client.data.*;
